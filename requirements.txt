@@ -1,0 +1,4 @@
+Pillow
+streamlit
+pandas
+requests
