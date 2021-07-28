@@ -3,7 +3,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
-## [Watch Tutorial for this project](https://youtu.be/HTSDryllx0Y)
+## [Watch Tutorial for this project](https://youtu.be/a3UHcEx48_I)
 <img src="https://github.com/Spidy20/Bank_IFSC_Checker/blob/master/yt_thumb.jpg">
 
 ## Usage:-
